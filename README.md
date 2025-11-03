@@ -17,4 +17,4 @@ Estadísticas reales:
 *Solo 27% de los leads están listos para ventas en el primer contacto.
 *Empresas con buen alineamiento marketing-ventas logran 208% más ingresos.
 
-<img width="1311" height="525" alt="newplot" src="https://github.com/user-attachments/assets/9e615cab-92ce-4594-bff8-48c2c68a3b8e" />
+
